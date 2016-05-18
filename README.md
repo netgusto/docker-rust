@@ -1,5 +1,7 @@
 # Rust in a container
 
+Installs rustup.rs in a container.
+
 ## Build
 
 ```bash
